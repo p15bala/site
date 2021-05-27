@@ -13,9 +13,6 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p15bala/_gallery.git
-[submodule "images"]
-	path = images
-	url = https://github.com/p15bala/images.git
 [submodule "bibliography"]
 	path = bibliography
 	url = https://github.com/p15bala/bibliography.git
