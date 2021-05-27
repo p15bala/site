@@ -16,3 +16,6 @@
 [submodule "bibliography"]
 	path = bibliography
 	url = https://github.com/p15bala/bibliography.git
+[submodule "images"]
+	path = images
+	url = https://github.com/p15bala/images.git
